@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "mainFont";
+    src: url("./ArchivoBlack-Regular.ttf") format("truetype");
+  }
+body{
+    background-color: #2B3138;
+    font-family: "mainFont";
+    display: flex;
+    height: 100vh;
+}
+.visitorTitle{
+    color: #EDB22C;
+    font-family: "mainFont";
+    font-weight: 700;
+    font-size: 400%;
+}
+.visitorNum{
+    color: white;
+    font-weight: 1000;
+    font-size: 1000%;
+}
+.visitorMainContent{
+    margin: auto;
+}
+.visitorninn{
+    color: #EDB22C;
+    font-weight: 1000;
+    font-size: 1000%;
+}
